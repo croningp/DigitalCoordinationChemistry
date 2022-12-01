@@ -2,7 +2,7 @@
 
 Contains scripts for the automated preparation of a number of coordination complexes using a Chemputer/ChemPU. Parallelized generation of a library of ruthenium bipyridyl complexes is also included.
 
-This work accompanies the paper "Hybrid Human-Robot Laboratories enable Library Generation and Discovery in Coordination Chemistry", by Kowalski, MacGregor, Long, Bell, and Cronin.
+This work accompanies the paper "Automated Library Gneration and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry", by Kowalski, MacGregor, Long, Bell, and Cronin.
 
 No further development is planned at this time.
 
