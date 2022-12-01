@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2021-06-24T16:12:48.172+01:00" expNo="1" name="CMM3-035X" owner="" procNo="1" source="D:/NMR/data/Cmacgregor/nmr">
+      <PeakPickDetails>F1=14.986810ppm, F2=-1.031089ppm, MI=0.20cm, MAXI=10000.00cm, PC=50.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.838184" intensity="2.929380e-001" type="0"/>
+    <Peak1D F1="8.829836" intensity="3.213005e-001" type="0"/>
+    <Peak1D F1="8.827487" intensity="3.055571e-001" type="0"/>
+    <Peak1D F1="7.751598" intensity="2.784772e-001" type="0"/>
+    <Peak1D F1="7.740726" intensity="2.412067e-001" type="0"/>
+    <Peak1D F1="3.067078" intensity="2.120589e-001" type="0"/>
+    <Peak1D F1="2.988270" intensity="1.000000e+002" type="0"/>
+    <Peak1D F1="2.061362" intensity="9.207470e-001" type="0"/>
+    <Peak1D F1="2.038860" intensity="1.841524e+000" type="0"/>
+    <Peak1D F1="1.949995" intensity="2.725082e-001" type="0"/>
+    <Peak1D F1="1.945860" intensity="4.014079e-001" type="0"/>
+    <Peak1D F1="1.939881" intensity="1.880688e+000" type="0"/>
+  </PeakList1D>
+</PeakList>

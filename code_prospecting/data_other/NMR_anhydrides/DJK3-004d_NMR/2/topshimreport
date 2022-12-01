@@ -1,0 +1,34 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2021-11-06
+time = 15:19:42.058
+command = topshim  rga lockoff solvent=H2O ss o1p=4.096 selwid=0.5
+
+1D SHIMMING
+
+Parameters:
+
+maximum order = 5
+probe = Z107910_0024
+solvent = H2O
+shim nucleus = 1H
+nucleus optimised for = 1H
+o1p (set) = 4.10 ppm
+selective excitation width = 0.5 ppm
+linewidth 1H = 0.20 Hz
+envelope shape / strictness = 1.75 / 500
+
+Results:
+
+shim changes: none
+
+duration = 15 sec
+completed with failure
+finished Sat Nov 06 15:19:55 2021
+
+TopshimRawCheck - no signal at all
+
+
+========================================================================

@@ -1,0 +1,15 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-062A/4/pdata/98/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-09-30 20:14:33.030 +0100>,<nmrsu>,<CZC943CYQC>,<mvrow>,<TopSpin 3.6.3>,
+      <rhpp from
+       1 4 "CMM3-062A" "D:/NMR/data/Cmacgregor/nmr"
+       data hash MD5: 1K
+       93 7A FC D2 CA 68 46 38 DB 12 C8 97 47 6D 5A 58>)
+##END=
+
+$$ hash MD5
+$$ E8 13 A7 A1 7C 5C C5 93 E7 35 71 E1 AF EC E9 A3

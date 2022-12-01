@@ -1,0 +1,41 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2021-06-25
+time = 10:31:59.731
+command = topshim  rga lockoff solvent=CH3CN ss o1p=2.880 selwid=0.5
+
+1D SHIMMING
+
+Parameters:
+
+maximum order = 5
+probe = Z107910_0024
+solvent = CH3CN
+shim nucleus = 1H
+nucleus optimised for = 1H
+o1p (set) = 2.88 ppm
+selective excitation width = 0.5 ppm
+linewidth 1H = 0.20 Hz
+envelope shape / strictness = 1.75 / 500
+
+Results:
+
+initial B0 stdDev = 7.70 Hz
+sample size = 2.74 cm, position = 0.09 cm
+final B0 stdDev = 0.27 Hz > improvement = 28.5
+envelope width = 0.93 Hz
+shim changes: 
+Z	-248
+Z2	+55
+Z3	-101
+Z4	+550
+Z5	-589
+
+duration = 23 sec
+completed successfully
+finished Fri Jun 25 10:32:21 2021
+
+
+========================================================================

@@ -1,0 +1,84 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Dkowalski/nmr/CCE_1_27/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-07-20 14:15:10.688 +0100>,<nmrsu>,<CZC943CYQC>,<go4>,<TopSpin 3.6.3>,
+      <created by zg on data set with UUID '4cf91940-e95c-11eb-81b1-84a93e84dbc3'
+       started at 2021-07-20 14:13:40.290 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2021-07-20 14:15:10.688 +0100
+
+       configuration hash MD5:
+       6D 69 B7 70 D0 7C 19 7F 2D 42 D4 AA D9 A8 DC EA
+       data hash MD5: 65K
+       5B D4 4B A3 85 7A 14 AA BB AA 88 84 B9 67 44 99
+>)
+(   2,<2021-07-20 14:15:10.750 +0100>,<nmrsu>,<CZC943CYQC>,<audit>,<TopSpin 3.6.3>,
+      <user comment:
+       ICON-NMR User ID: Dkowalski
+       data hash MD5: 65K
+       5B D4 4B A3 85 7A 14 AA BB AA 88 84 B9 67 44 99>)
+(   3,<2021-07-20 14:15:12.219 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       D2 71 EF 25 72 A1 5A FE 43 DB E0 CD 1C B0 99 CB>)
+(   4,<2021-07-20 14:15:12.281 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <apks 
+       data hash MD5: 64K
+       58 42 E4 8C F0 29 D6 E7 58 73 56 73 75 3B CD EC>)
+(   5,<2021-07-20 14:15:12.328 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <abs ABSG = 3 
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(   6,<2021-07-20 14:17:02.436 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:15:53.950 +0100
+       DEFINE [2.503;1.886]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(   7,<2021-07-20 14:17:02.451 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:15:59.225 +0100
+       DELETE [2.503;1.886]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(   8,<2021-07-20 14:17:02.451 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:16:01.725 +0100
+       DELETE [2.890;1.451]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(   9,<2021-07-20 14:17:02.451 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:16:21.416 +0100
+       DEFINE [2.475;2.452]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(  10,<2021-07-20 14:17:02.467 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:16:24.400 +0100
+       DEFINE [2.245;2.215]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(  11,<2021-07-20 14:17:02.467 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:16:29.582 +0100
+       DEFINE [1.940;1.934]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(  12,<2021-07-20 14:17:25.440 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:17:17.679 +0100
+       DELETE [1.451;1.115]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(  13,<2021-07-20 14:17:25.440 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:17:21.391 +0100
+       DELETE [3.495;3.179]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+(  14,<2021-07-20 14:17:25.440 +0100>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <INTEGRAL 2021-07-20 14:17:23.317 +0100
+       DELETE [5.044;4.714]
+       data hash MD5: 64K
+       6B C3 0D AD F3 47 89 FE 97 B2 26 54 78 E6 81 DD>)
+##END=
+
+$$ hash MD5
+$$ CB AE 67 4E 72 FB 74 FB 5E CC 04 11 47 F5 DC B3

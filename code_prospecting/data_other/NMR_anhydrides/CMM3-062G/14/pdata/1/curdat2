@@ -1,0 +1,33 @@
+##TITLE= Parameter file, TopSpin 3.6.3
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 3	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2021-09-30 21:08:49.636 +0100  nmrsu@CZC943CYQC
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-062G/14/pdata/1/curdat2
+$$ process C:\Bruker\TopSpin3.6.3\prog\au\bin\user\proc_2d_hom_qf.zs.exe
+##$CUREXP= <>
+##$DATPATH= <>
+##$DATPATH2= <D:/NMR/data/Cmacgregor/nmr>
+##$DATPATH3= <D:/NMR/data/Cmacgregor/nmr>
+##$DETAILS= <>
+##$DU= </u>
+##$DU2= <D:\NMR>
+##$DU3= <>
+##$EXPNO= 1
+##$EXPNO2= 14
+##$EXPNO3= 14
+##$NAME= <>
+##$NAME2= <CMM3-062G>
+##$NAME3= <CMM3-062G>
+##$PROCNO= 1
+##$PROCNO2= 98
+##$PROCNO3= 98
+##$SCALE2= 1
+##$SCALE3= 1
+##$TYPE= <nmr>
+##$USER= <>
+##$USER2= <Cmacgregor>
+##$USER3= <>
+##END=

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2021-11-06T15:16:57.009+00:00" expNo="1" name="DJK3-004e_NMR" owner="" procNo="1" source="D:/NMR/data/Dkowalski/nmr">
+      <PeakPickDetails>F1=14.988920ppm, F2=-1.028978ppm, MI=0.20cm, MAXI=10000.00cm, PC=50.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="5.630250" intensity="1.047090e+001" type="0"/>
+    <Peak1D F1="4.849890" intensity="2.514539e+001" type="0"/>
+    <Peak1D F1="3.309878" intensity="3.035678e+000" type="0"/>
+    <Peak1D F1="2.230619" intensity="5.636528e-001" type="0"/>
+    <Peak1D F1="2.167199" intensity="2.842437e-001" type="0"/>
+    <Peak1D F1="2.125711" intensity="1.000000e+002" type="0"/>
+    <Peak1D F1="2.017225" intensity="5.449486e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

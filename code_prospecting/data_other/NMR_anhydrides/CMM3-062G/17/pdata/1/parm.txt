@@ -1,0 +1,47 @@
+
+Current Data Parameters
+NAME          CMM3-062G              
+EXPNO                17              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20210930              
+Time              21.32 h            
+INSTRUM           spect              
+PROBHD   Z107910_0024 (              
+PULPROG          zgpg30              
+TD               131072              
+SOLVENT            MeOD              
+NS                  512              
+DS                    0              
+SWH           37878.789 Hz           
+FIDRES         0.577984 Hz           
+AQ            1.7301503 sec          
+RG               203.02              
+DW               13.200 usec         
+DE                41.34 usec         
+TE                298.0 K            
+D1           0.80000001 sec          
+D11          0.03000000 sec          
+TD0                  32              
+SFO1        150.9596443 MHz          
+NUC1                13C              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        22.00000000 W            
+SFO2        600.2924012 MHz          
+NUC2                 1H              
+CPDPRG[2        waltz64              
+PCPD2             70.00 usec         
+PLW2        20.10000038 W            
+PLW12        0.33227000 W            
+PLW13        0.16712999 W            
+
+F2 - Processing parameters
+SI               131072              
+SF          150.9430406 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

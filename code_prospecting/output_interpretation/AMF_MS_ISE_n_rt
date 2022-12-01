@@ -1,0 +1,1344 @@
+SAMPLE: ISE_1_0 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 24.24 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 24.24 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.16 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 70.5 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 54.83 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_1 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [410.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 53.55 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 53.55 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 82.93 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 53.66 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 43.23 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_2 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 59.44 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 59.44 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 87.69 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 69.48 based on 4 matching peaks
+      % Difference between {Co3O} in standard and sample: 57.2 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 46.86 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_3 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [576.0, 577.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 31.31 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 31.31 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.29 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 79.93 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 55.87 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_4 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 4 [243.0, 261.0, 285.0, 306.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 56.65 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 56.65 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.49 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 89.08 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 53.27 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 36.07 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_5 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 4 [243.0, 261.0, 285.0, 576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 47.1 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 47.1 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.38 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 91.29 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 100.0 based on 1 matching peaks
+ 
+SAMPLE: ISE_1_6 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [758.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 45.17 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 45.17 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.24 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 43.36 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 27.27 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_7 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 31.36 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 31.36 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.08 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 59.49 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 40.14 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_8 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 7 [243.0, 257.0, 261.0, 263.0, 285.0, 345.0, 431.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 38.62 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 38.62 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 79.68 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 78.47 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 61.06 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_9 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 29.32 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 29.32 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.77 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 80.97 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 65.95 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_10 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 4 [311.0, 374.0, 410.0, 758.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 52.82 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 52.82 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.15 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 77.35 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 51.72 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 33.06 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_11 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 29.1 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 29.1 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.81 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 77.73 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 62.36 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_12 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 29.44 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 29.44 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.61 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 58.62 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 33.6 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_13 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [576.0, 577.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 24.69 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 24.69 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.85 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 71.26 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 47.9 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_14 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 20 [241.0, 243.0, 261.0, 263.0, 263.0, 285.0, 286.0, 289.0, 293.0, 294.0, 301.0, 302.0, 306.0, 348.0, 416.0, 417.0, 477.0, 581.0, 583.0, 586.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 54.58 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 54.58 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 82.66 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 80.58 based on 2 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 69.86 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_15 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [576.0, 577.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 25.65 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 25.65 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.01 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 95.49 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 80.38 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.45 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_16 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 34.12 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 34.12 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.69 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 64.97 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 57.52 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_17 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 41.92 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 41.92 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 83.41 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 88.38 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 66.34 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 55.12 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_18 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 24.79 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 24.79 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.54 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 70.82 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 51.66 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_19 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 72.5 based on 3 matching peaks
+      % Difference between {Cr3O} in standard and sample: 72.5 based on 3 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 84.53 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.9 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 46.96 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_20 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Cr3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 66.91 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 41.32 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_21 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [374.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 36.56 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 36.56 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.69 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 40.53 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 28.11 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_22 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 31.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 31.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.64 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 95.04 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.28 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 47.42 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_23 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [410.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 61.93 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 61.93 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.72 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 66.58 based on 4 matching peaks
+      % Difference between {Co3O} in standard and sample: 52.18 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 45.25 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_24 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [300.0, 576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 40.68 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 40.68 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.15 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 48.35 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 22.58 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_25 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 3 [261.0, 324.0, 576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 31.3 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 31.3 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.19 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 52.8 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 35.29 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_26 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 29.76 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 29.76 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.07 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 54.54 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 43.5 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_27 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [374.0, 410.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 36.72 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 36.72 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.19 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 50.13 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 34.56 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_28 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 30.89 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 30.89 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.75 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 44.79 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 91.67 based on 2 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 100.0 based on 1 matching peaks
+ 
+SAMPLE: ISE_1_29 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 31.02 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 31.02 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.55 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 80.02 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.36 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_30 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [576.0, 577.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 23.75 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 23.75 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.25 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 82.25 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 65.02 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_31 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [758.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 47.34 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 47.34 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.18 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 49.69 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 27.64 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_32 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [431.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 32.5 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 32.5 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.17 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 92.88 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 51.69 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 50.29 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_33 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 36.86 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 36.86 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 82.49 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 47.87 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 69.36 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 67.12 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_34 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 33.81 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 33.81 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.61 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 63.09 based on 4 matching peaks
+      % Difference between {Co3O} in standard and sample: 71.95 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.77 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_35 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 55.73 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 55.73 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.75 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 48.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 35.61 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_36 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [576.0, 577.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 28.75 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 28.75 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.46 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 70.73 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 42.81 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_37 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 41.88 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 41.88 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.04 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.2 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 43.97 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_38 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 48.03 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 48.03 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.12 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 50.85 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 38.36 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_39 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 40.47 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 40.47 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.1 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 43.26 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 34.36 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_40 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 8 [243.0, 261.0, 263.0, 285.0, 292.0, 293.0, 325.0, 576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 25.65 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 25.65 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.66 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 100.0 based on 1 matching peaks
+ 
+SAMPLE: ISE_1_41 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 2 [289.0, 348.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 32.63 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 32.63 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.72 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 43.05 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 33.97 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_42 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 38.98 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 38.98 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 78.83 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 57.04 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 44.95 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_43 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 33.82 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 33.82 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.59 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 65.35 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 46.72 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_44 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 33.34 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 33.34 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 75.56 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 56.1 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 36.64 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_45 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 1 [576.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 32.59 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 32.59 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.45 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 85.67 based on 3 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 77.76 based on 3 matching peaks
+ 
+SAMPLE: ISE_1_46 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 12 [246.0, 261.0, 263.0, 285.0, 286.0, 293.0, 294.0, 301.0, 306.0, 324.0, 416.0, 431.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 30.81 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 30.81 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 80.41 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 79.79 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 68.29 based on 5 matching peaks
+ 
+SAMPLE: ISE_1_47 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 70.22 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 70.22 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 93.46 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 49.8 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 60.25 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 54.13 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_0 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Fe3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_1 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 27.61 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_2 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 75.32 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 75.32 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 94.48 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 57.32 based on 3 matching peaks
+      % Difference between {Co3O} in standard and sample: 56.49 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 43.19 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_3 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 75.05 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 75.05 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 96.67 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 75.22 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_4 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 66.15 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 66.15 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.91 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 73.14 based on 3 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 64.39 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_5 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 7 [261.0, 263.0, 285.0, 293.0, 325.0, 345.0, 416.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 57.24 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 57.24 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.5 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_6 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Cr3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 79.64 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.33 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 46.48 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_7 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 11 [246.0, 261.0, 263.0, 285.0, 289.0, 293.0, 306.0, 324.0, 326.0, 345.0, 431.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 59.41 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 59.41 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.8 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 62.33 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 45.68 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_8 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 17 [241.0, 243.0, 257.0, 261.0, 262.0, 263.0, 263.0, 285.0, 286.0, 293.0, 294.0, 301.0, 416.0, 417.0, 581.0, 583.0, 586.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 44.3 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 44.3 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 83.37 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_9 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 24 [241.0, 243.0, 257.0, 261.0, 262.0, 263.0, 263.0, 285.0, 286.0, 293.0, 294.0, 301.0, 302.0, 319.0, 345.0, 416.0, 417.0, 434.0, 561.0, 569.0, 581.0, 582.0, 583.0, 586.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_10 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 31 [241.0, 243.0, 246.0, 257.0, 261.0, 263.0, 263.0, 285.0, 286.0, 289.0, 293.0, 294.0, 295.0, 301.0, 302.0, 306.0, 307.0, 309.0, 319.0, 339.0, 348.0, 388.0, 389.0, 416.0, 417.0, 431.0, 433.0, 477.0, 586.0, 591.0, 629.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 57.79 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 57.79 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 94.2 based on 2 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 87.93 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 84.27 based on 2 matching peaks
+ 
+SAMPLE: ISE_2_11 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 3 [261.0, 285.0, 325.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 53.31 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 53.31 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.53 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_12 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 18 [246.0, 261.0, 285.0, 289.0, 293.0, 306.0, 307.0, 324.0, 348.0, 361.0, 363.0, 363.0, 419.0, 433.0, 437.0, 451.0, 455.0, 479.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 63.33 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 63.33 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.89 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 58.45 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 34.71 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_13 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 15 [261.0, 263.0, 265.0, 266.0, 267.0, 289.0, 300.0, 302.0, 306.0, 324.0, 363.0, 437.0, 561.0, 563.0, 565.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 63.78 based on 3 matching peaks
+      % Difference between {Cr3O} in standard and sample: 63.78 based on 3 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.31 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 57.66 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 30.45 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_14 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 11 [261.0, 263.0, 263.0, 265.0, 285.0, 286.0, 293.0, 294.0, 301.0, 329.0, 416.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 42.34 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 42.34 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 83.56 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_15 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 3 [261.0, 329.0, 510.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 64.06 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 64.06 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 93.57 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 27.65 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_16 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 75.81 based on 3 matching peaks
+      % Difference between {Cr3O} in standard and sample: 75.81 based on 3 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.63 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 58.22 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 37.72 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_17 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 20.55 based on 5 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_18 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 64.65 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 64.65 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 94.4 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 68.27 based on 3 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_19 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 23 [241.0, 243.0, 257.0, 261.0, 262.0, 263.0, 263.0, 285.0, 286.0, 293.0, 294.0, 300.0, 301.0, 319.0, 345.0, 345.0, 372.0, 416.0, 417.0, 431.0, 434.0, 503.0, 788.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 70.19 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 70.19 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 94.01 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 89.92 based on 2 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 85.66 based on 2 matching peaks
+ 
+SAMPLE: ISE_2_20 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 53.33 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 39.61 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_21 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 61.4 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 61.4 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.84 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 81.01 based on 2 matching peaks
+      % Difference between {Co3O} in standard and sample: 55.12 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 41.72 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_22 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 66.69 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 66.69 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 86.17 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 51.23 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 36.75 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_23 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 45.6 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 45.6 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 79.9 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 0.0 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 0.0 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_24 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 63.51 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 63.51 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.64 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 77.6 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 64.95 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_25 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 3 [306.0, 324.0, 326.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Cr3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 53.23 based on 5 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 35.9 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_26 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 49.28 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 49.28 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 85.06 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 80.91 based on 2 matching peaks
+ 
+SAMPLE: ISE_2_27 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 61.46 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 61.46 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 86.35 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 73.11 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 56.47 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_28 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 5 [261.0, 285.0, 293.0, 301.0, 416.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 39.74 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 39.74 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 83.1 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 77.45 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 70.54 based on 4 matching peaks
+ 
+SAMPLE: ISE_2_29 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 5 [261.0, 263.0, 285.0, 293.0, 324.0]
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 52.25 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 52.25 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 87.86 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 77.17 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 68.11 based on 4 matching peaks
+ 
+SAMPLE: ISE_2_30 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 65.74 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 65.74 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.3 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 60.56 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 62.68 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_31 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 54.91 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 54.91 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 81.92 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.13 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 64.52 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_32 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Cr3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 60.14 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 63.26 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_33 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 72.84 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 72.84 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 93.67 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 83.24 based on 2 matching peaks
+ 
+SAMPLE: ISE_2_34 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 68.01 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 68.01 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 90.13 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 66.47 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 63.26 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_35 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 73.93 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 73.93 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 95.72 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 75.4 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 61.47 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_36 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 85.0 based on 2 matching peaks
+      % Difference between {Cr3O} in standard and sample: 85.0 based on 2 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 70.1 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 62.84 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_37 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 71.31 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 71.31 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 94.34 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 73.52 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 62.55 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_38 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 61.69 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 61.69 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.13 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 84.75 based on 2 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 62.52 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_39 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 74.48 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 74.48 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 96.05 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 74.86 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.26 based on 4 matching peaks
+ 
+SAMPLE: ISE_2_40 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 71.56 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 71.56 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 94.46 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 83.36 based on 2 matching peaks
+ 
+SAMPLE: ISE_2_41 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 62.25 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 62.25 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 88.67 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 73.75 based on 3 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.94 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_42 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 54.42 based on 4 matching peaks
+      % Difference between {Cr3O} in standard and sample: 54.42 based on 4 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 77.41 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 69.02 based on 3 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 67.27 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_43 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 73.06 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 73.06 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 95.79 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 72.19 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 64.65 based on 4 matching peaks
+ 
+SAMPLE: ISE_2_44 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 75.36 based on 2 matching peaks
+      % Difference between {Cr3O} in standard and sample: 75.36 based on 2 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 76.53 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 87.06 based on 2 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.07 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_45 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 57.51 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 57.51 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 86.33 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} in standard and sample: 61.82 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 66.8 based on 5 matching peaks
+ 
+SAMPLE: ISE_2_46 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 69.95 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 69.95 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 93.55 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 70.57 based on 4 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 68.99 based on 4 matching peaks
+ 
+SAMPLE: ISE_2_47 rt
+STANDARDS: ['{Cr3O}', '{Cr3O}', '{Mn3O}', 'CMM3-032_MeCN_2', '{Fe3O}', 'CMM3-033_MeCN_2', '{Co3O}', '{Co3O} Degradation in MeOH']
+   PEAK NOVELTY:
+      Unique: 0 []
+   CONTAINING STANDARDS:
+      % Difference between {Cr3O} in standard and sample: 70.81 based on 5 matching peaks
+      % Difference between {Cr3O} in standard and sample: 70.81 based on 5 matching peaks
+      % Difference between {Mn3O} in standard and sample: 100 based on 0 matching peaks
+      % Difference between CMM3-032_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Fe3O} in standard and sample: 92.99 based on 2 matching peaks
+      % Difference between CMM3-033_MeCN_2 in standard and sample: 100 based on 0 matching peaks
+      % Difference between {Co3O} in standard and sample: 100.0 based on 1 matching peaks
+      % Difference between {Co3O} Degradation in MeOH in standard and sample: 83.09 based on 2 matching peaks
+ 

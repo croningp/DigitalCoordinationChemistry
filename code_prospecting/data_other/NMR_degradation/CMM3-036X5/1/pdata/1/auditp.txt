@@ -1,0 +1,43 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-036X5/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-06-29 09:29:21.477 +0100>,<nmrsu>,<CZC943CYQC>,<go4>,<TopSpin 3.6.3>,
+      <created by zg on data set with UUID 'e496a880-d8b3-11eb-b32b-84a93e84dbc3'
+       started at 2021-06-29 09:27:51.106 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2021-06-29 09:29:21.461 +0100
+
+       configuration hash MD5:
+       6D 69 B7 70 D0 7C 19 7F 2D 42 D4 AA D9 A8 DC EA
+       data hash MD5: 65K
+       E5 F5 75 60 B7 A5 E6 85 98 DE A0 EE E2 E9 AF 90
+>)
+(   2,<2021-06-29 09:29:21.539 +0100>,<nmrsu>,<CZC943CYQC>,<audit>,<TopSpin 3.6.3>,
+      <user comment:
+       ICON-NMR User ID: Cmacgregor
+       data hash MD5: 65K
+       E5 F5 75 60 B7 A5 E6 85 98 DE A0 EE E2 E9 AF 90>)
+(   3,<2021-06-29 09:29:21.950 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       92 CA 97 C6 FE 2C 05 BE 82 F0 B2 1D 2E 46 11 A7>)
+(   4,<2021-06-29 09:29:21.997 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <apks 
+       data hash MD5: 64K
+       1C 34 EB 42 AE 87 30 B4 F5 58 D9 18 9C B9 1E 07>)
+(   5,<2021-06-29 09:29:22.044 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <abs ABSG = 3 
+       data hash MD5: 64K
+       FF DD D2 FF 0D BA 48 B7 0B 15 DF 90 EB 47 87 98>)
+(   6,<2021-06-29 09:36:28.183 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <pk fgphup PHC0 = 0.825 PHC1 = 0 
+       data hash MD5: 64K
+       41 68 D3 2C 3C 38 5E 10 7F 3A A5 2E 5F 9A A5 8F>)
+##END=
+
+$$ hash MD5
+$$ C3 00 04 B5 A7 5A 31 DF D8 43 C8 5A 0F 59 BC 9A

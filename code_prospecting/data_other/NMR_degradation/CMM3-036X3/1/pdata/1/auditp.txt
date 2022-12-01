@@ -1,0 +1,48 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-036X3/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-06-25 11:09:04.027 +0100>,<nmrsu>,<CZC943CYQC>,<go4>,<TopSpin 3.6.3>,
+      <created by zg on data set with UUID '28d258c4-d59d-11eb-b7b9-84a93e84dbc3'
+       started at 2021-06-25 11:07:33.670 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2021-06-25 11:09:04.027 +0100
+
+       configuration hash MD5:
+       6D 69 B7 70 D0 7C 19 7F 2D 42 D4 AA D9 A8 DC EA
+       data hash MD5: 65K
+       9A 00 EF 6D 55 6A AA 25 CF F8 0E 0D 5E 3E 83 C5
+>)
+(   2,<2021-06-25 11:09:04.089 +0100>,<nmrsu>,<CZC943CYQC>,<audit>,<TopSpin 3.6.3>,
+      <user comment:
+       ICON-NMR User ID: Cmacgregor
+       data hash MD5: 65K
+       9A 00 EF 6D 55 6A AA 25 CF F8 0E 0D 5E 3E 83 C5>)
+(   3,<2021-06-25 11:09:04.527 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       75 5A 94 01 FE 9E DF B5 F6 DE 35 AC C2 46 A5 B8>)
+(   4,<2021-06-25 11:09:04.573 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <apks 
+       data hash MD5: 64K
+       7B D1 B7 85 68 D8 BC F4 39 14 01 54 6D E0 F5 61>)
+(   5,<2021-06-25 11:09:04.620 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <abs ABSG = 3 
+       data hash MD5: 64K
+       C1 67 71 B9 EA F9 A4 D7 BA BE 90 3C C8 38 A4 AF>)
+$$ Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-036X3/1/pdata/1/auditp.txt
+(   6,<2021-06-28 09:30:40.390 +0100>,<group>,<CheapestVodka>,<proc1d>,<TopSpin 4.0.5>,
+      <pk fgphup PHC0 = 16 PHC1 = 0 
+       data hash MD5: 64K
+       F2 47 91 23 29 AD B4 21 09 7E 56 0A 94 54 5F 65>)
+(   7,<2021-06-28 09:30:42.546 +0100>,<group>,<CheapestVodka>,<proc1d>,<TopSpin 4.0.5>,
+      <bcm 0 22441 8384 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 0.000000e+00 
+       data hash MD5: 64K
+       F2 47 91 23 29 AD B4 21 09 7E 56 0A 94 54 5F 65>)
+##END=
+
+$$ hash MD5
+$$ F6 C4 13 11 25 BA D7 9B E9 0B C2 45 B6 25 DB 64

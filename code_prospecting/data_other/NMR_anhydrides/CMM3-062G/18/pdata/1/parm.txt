@@ -1,0 +1,67 @@
+
+Current Data Parameters
+NAME          CMM3-062G              
+EXPNO                18              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20210930              
+Time              21.57 h            
+INSTRUM           spect              
+PROBHD   Z107910_0024 (              
+PULPROG     deptqgpsp.2              
+TD               131072              
+SOLVENT            MeOD              
+NS                  512              
+DS                    8              
+SWH           37878.789 Hz           
+FIDRES         0.577984 Hz           
+AQ            1.7301503 sec          
+RG               203.02              
+DW               13.200 usec         
+DE                41.63 usec         
+TE                298.0 K            
+CNST2       145.0000000              
+D1           1.00000000 sec          
+D2           0.00344828 sec          
+D12          0.00002000 sec          
+D16          0.00020000 sec          
+D28          0.50000000 sec          
+TD0                  32              
+SFO1        150.9596443 MHz          
+NUC1                13C              
+P1                10.00 usec         
+P13             2000.00 usec         
+PLW0                  0 W            
+PLW1        22.00000000 W            
+SPNAM[5]    Crp60comp.4              
+SPOAL5            0.500              
+SPOFFS5               0 Hz           
+SPW5         3.36139989 W            
+SFO2        600.2924012 MHz          
+NUC2                 1H              
+CNST12        1.5000000              
+CPDPRG[2        waltz64              
+P0                13.50 usec         
+P3                 9.00 usec         
+P4                18.00 usec         
+PCPD2             70.00 usec         
+PLW2        20.10000038 W            
+PLW12        0.33227000 W            
+PLW13        0.16712999 W            
+GPNAM[1]       SINE.100              
+GPZ1              31.00 %            
+GPNAM[2]       SINE.100              
+GPZ2              31.00 %            
+GPNAM[3]       SINE.100              
+GPZ3              31.00 %            
+P16             1000.00 usec         
+
+F2 - Processing parameters
+SI               131072              
+SF          150.9430406 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 1.00 Hz           
+GB                    0              
+PC                 1.40              

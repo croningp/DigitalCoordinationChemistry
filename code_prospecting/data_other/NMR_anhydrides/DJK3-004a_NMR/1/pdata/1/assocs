@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 2	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= group
+$$ 2021-11-06 15:51:21.429 +0000  group@CheapestVodka
+$$ Z:/group/Daniel Kowalski/Data/NMR/DJK3-004a_NMR/1/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.5\prog\mod\dataserver.exe
+##$MULTDISP= <Z:/group/Daniel Kowalski/Data/NMR/DJK3-004b_NMR/1/pdata/1|Z:/group/Daniel Kowalski/Data/NMR/DJK3-004c_NMR/1/pdata/1|Z:/group/Daniel Kowalski/Data/NMR/DJK3-004d_NMR/4/pdata/1|Z:/group/Daniel Kowalski/Data/NMR/DJK3-004e_NMR/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063A/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063B/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063C/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063D/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063E/1/pdata/1|Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-063F/1/pdata/1|Z:/group/Daniel Kowalski/Data/NMR/CCE_1_27/1/pdata/1>
+##END=

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2021-05-13T18:21:16.967+01:00" expNo="1" name="CMM3-036A" owner="" procNo="1" source="D:/NMR/data/Cmacgregor/nmr">
+      <PeakPickDetails>F1=14.970240ppm, F2=-1.047659ppm, MI=0.20cm, MAXI=10000.00cm, PC=50.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="8.905827" intensity="6.663598e+000" type="0"/>
+    <Peak1D F1="8.903432" intensity="8.709759e+000" type="0"/>
+    <Peak1D F1="8.894923" intensity="8.719129e+000" type="0"/>
+    <Peak1D F1="8.892566" intensity="6.257124e+000" type="0"/>
+    <Peak1D F1="8.739948" intensity="7.359090e-001" type="0"/>
+    <Peak1D F1="8.731651" intensity="7.130886e-001" type="0"/>
+    <Peak1D F1="8.090179" intensity="2.225677e+000" type="0"/>
+    <Peak1D F1="8.080049" intensity="2.712801e+000" type="0"/>
+    <Peak1D F1="8.077619" intensity="4.627025e+000" type="0"/>
+    <Peak1D F1="8.065048" intensity="2.532428e+000" type="0"/>
+    <Peak1D F1="7.734994" intensity="5.218571e-001" type="0"/>
+    <Peak1D F1="7.724159" intensity="6.268996e-001" type="0"/>
+    <Peak1D F1="7.706575" intensity="6.232154e+000" type="0"/>
+    <Peak1D F1="7.695518" intensity="7.879830e+000" type="0"/>
+    <Peak1D F1="7.694184" intensity="7.550962e+000" type="0"/>
+    <Peak1D F1="7.683130" intensity="5.559523e+000" type="0"/>
+    <Peak1D F1="5.321635" intensity="3.294564e+001" type="0"/>
+    <Peak1D F1="5.319876" intensity="3.456122e+001" type="0"/>
+    <Peak1D F1="5.318111" intensity="2.892253e+001" type="0"/>
+    <Peak1D F1="2.227023" intensity="6.466080e-001" type="0"/>
+    <Peak1D F1="2.210666" intensity="5.282209e-001" type="0"/>
+    <Peak1D F1="2.170521" intensity="2.057215e+000" type="0"/>
+    <Peak1D F1="2.104427" intensity="1.000000e+002" type="0"/>
+    <Peak1D F1="2.092466" intensity="4.396694e+000" type="0"/>
+    <Peak1D F1="2.058640" intensity="5.218347e+000" type="0"/>
+    <Peak1D F1="2.008457" intensity="4.082000e+000" type="0"/>
+    <Peak1D F1="1.994507" intensity="5.402178e-001" type="0"/>
+    <Peak1D F1="1.538075" intensity="3.242367e+001" type="0"/>
+    <Peak1D F1="1.264518" intensity="1.051177e+000" type="0"/>
+    <Peak1D F1="0.080763" intensity="1.583115e+001" type="0"/>
+  </PeakList1D>
+</PeakList>

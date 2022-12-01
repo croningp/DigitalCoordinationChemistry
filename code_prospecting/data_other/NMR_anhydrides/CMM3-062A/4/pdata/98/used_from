@@ -1,0 +1,17 @@
+##TITLE= Parameter file, TopSpin 3.6.3
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ 2021-09-30 20:14:33.030 +0100  nmrsu@CZC943CYQC
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-062A/4/pdata/98/used_from
+$$ process C:\Bruker\TopSpin3.6.3\prog\mod\mvrow.exe
+##$CUREXP= <row>
+##$DATPATH= <D:/NMR/data/Cmacgregor/nmr>
+##$DETAILS= <positive projection of all 1024 rows>
+##$EXPNO= 4
+##$NAME= <CMM3-062A>
+##$PROCNO= 1
+##$PROCNO2= 1
+##END=

@@ -1,0 +1,11 @@
+##TITLE= Parameter file, TopSpin 4.0.5
+##JCAMPDX= 5.0
+##DATATYPE= Parameter Values
+##NPOINTS= 1	$$ modification sequence number
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= group
+$$ 2021-08-03 23:54:17.434 +0100  group@CheapestVodka
+$$ Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-036Z/1/pdata/1/assocs
+$$ process C:\Bruker\TopSpin4.0.5\prog\mod\dataserver.exe
+##$MULTDISP= <Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-036Z2/1/pdata/1|Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-036Z3/3/pdata/1|Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-035Z/1/pdata/1|Z:/group/Cat MacGregor/Data/NMR/Carboxylates/CMM3-036ZCOSY/4/pdata/98>
+##END=

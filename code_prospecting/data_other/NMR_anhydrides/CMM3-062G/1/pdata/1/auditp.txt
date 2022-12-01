@@ -1,0 +1,70 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Cmacgregor/nmr/CMM3-062G/1/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-09-28 15:04:20.647 +0100>,<nmrsu>,<CZC943CYQC>,<go4>,<TopSpin 3.6.3>,
+      <created by zg on data set with UUID 'c3ec6374-2064-11ec-8bfa-84a93e84dbc3'
+       started at 2021-09-28 15:02:49.782 +0100,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2021-09-28 15:04:20.631 +0100
+
+       configuration hash MD5:
+       55 14 48 12 FF 91 F1 D7 DE 45 42 8E 68 6F 4F 8E
+       data hash MD5: 65K
+       F3 5A 73 94 B0 43 E1 E2 D1 A7 E8 57 10 B1 67 8F
+>)
+(   2,<2021-09-28 15:04:20.697 +0100>,<nmrsu>,<CZC943CYQC>,<audit>,<TopSpin 3.6.3>,
+      <user comment:
+       ICON-NMR User ID: Cmacgregor
+       data hash MD5: 65K
+       F3 5A 73 94 B0 43 E1 E2 D1 A7 E8 57 10 B1 67 8F>)
+(   3,<2021-09-28 15:04:21.121 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       43 E2 92 1E DF 38 46 AC F1 E4 92 69 1F 95 7E 8E>)
+(   4,<2021-09-28 15:04:21.221 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <apks 
+       data hash MD5: 64K
+       70 3E 42 04 A6 05 E5 59 C6 35 46 BF B7 60 72 FE>)
+(   5,<2021-09-28 15:04:21.267 +0100>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <abs ABSG = 3 
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+$$ Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions/CMM3-062G/1/pdata/1/auditp.txt
+(   6,<2021-11-06 16:48:38.248 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:46:54.360 +0000
+       DELETE [3.066;1.084]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+(   7,<2021-11-06 16:48:38.285 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:46:55.680 +0000
+       DEFINE [2.508;2.484]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+(   8,<2021-11-06 16:48:38.331 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:46:59.687 +0000
+       DEFINE [2.315;2.298]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+(   9,<2021-11-06 16:48:38.415 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:47:00.823 +0000
+       DEFINE [2.298;2.274]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+(  10,<2021-11-06 16:48:38.429 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:47:02.712 +0000
+       DELETE [2.508;2.484]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+(  11,<2021-11-06 16:48:38.461 +0000>,<group>,<CheapestVodka>,<dataserver>,<TopSpin 4.0.5>,
+      <INTEGRAL 2021-11-06 16:47:04.495 +0000
+       DEFINE [2.507;2.486]
+       data hash MD5: 64K
+       38 D6 B2 51 D2 51 A7 9F 0B 0E 2D 94 A6 ED 20 24>)
+##END=
+
+$$ hash MD5
+$$ 7F C3 43 BE 7D 18 F7 26 F7 4C 3F B5 8D D9 8E DB

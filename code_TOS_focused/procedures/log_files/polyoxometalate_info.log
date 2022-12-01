@@ -1,0 +1,27 @@
+2022-10-07 14:23:33,368 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.55', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'rtscts': True}
+2022-10-07 14:24:08,500 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.55', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'rtscts': True}
+2022-10-07 14:24:08,501 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.50', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,503 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '', 'port': 'COM5', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'write_timeout': 0.5, 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'stopbits': 1, 'xonxoff': False, 'rtscts': False, 'dsrdtr': False, 'inter_byte_timeout': False}
+2022-10-07 14:24:08,504 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.51', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,505 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.52', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,506 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.54', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,520 ; PyLabware ; SIM :: Patched send() to return <0>, calling <is_idle>
+2022-10-07 14:24:08,521 ; PyLabware ; SIM :: Patched send() to return <JULABO CRYOCOMPACT CF41>, calling <is_connected>
+2022-10-07 14:24:08,521 ; PyLabware ; Waiting done. Device <julabo_chiller> ready.
+2022-10-07 14:24:08,522 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,523 ; PyLabware ; Waiting done. Device <hotplate1> ready.
+2022-10-07 14:24:08,523 ; PyLabware ; SIM :: Patched send() to return <Microstar C>, calling <is_connected>
+2022-10-07 14:24:08,523 ; PyLabware ; Waiting done. Device <ohstirrer> ready.
+2022-10-07 14:24:08,524 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,524 ; PyLabware ; Waiting done. Device <hotplate2> ready.
+2022-10-07 14:24:08,525 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,525 ; PyLabware ; Waiting done. Device <hotplate3> ready.
+2022-10-07 14:24:08,526 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,526 ; PyLabware ; Waiting done. Device <hotplate4> ready.

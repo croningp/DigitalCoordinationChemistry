@@ -1,0 +1,42 @@
+
+New TopShim run:
+
+version = topshim 2.0.0
+date = 2021-07-20
+time = 14:12:42.646
+command = topshim  convcomp
+
+1D SHIMMING
+
+Parameters:
+
+maximum order = 5
+probe = Z107910_0024
+solvent = MeOD
+shim nucleus = 2H
+nucleus optimised for = 1H
+o1p (from lock) = 3.30 ppm
+selective excitation width = 1.0 ppm
+optimisation parameters = ls
+linewidth 1H = 0.10 Hz
+envelope shape / strictness = 2.00 / 200
+
+Results:
+
+initial B0 stdDev = 6.03 Hz
+sample size = 2.92 cm, position = -0.00 cm
+final B0 stdDev = 0.30 Hz > improvement = 19.9
+envelope width = 0.54 Hz
+shim changes: 
+Z	-169
+Z2	+102
+Z3	-110
+Z4	+343
+Z5	-451
+
+duration = 41 sec
+completed successfully
+finished Tue Jul 20 14:13:22 2021
+
+
+========================================================================

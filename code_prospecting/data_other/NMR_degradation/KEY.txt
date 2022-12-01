@@ -1,0 +1,5 @@
+X  -  MeCN + H2O
+
+Y  -  MeCN
+
+Z  -  MeOH

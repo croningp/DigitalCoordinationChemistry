@@ -1,0 +1,38 @@
+
+Current Data Parameters
+NAME      DJK3-004c_NMR              
+EXPNO                 3              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20211202              
+Time              13.08 h            
+INSTRUM           spect              
+PROBHD   Z107910_0024 (              
+PULPROG              zg              
+TD                66560              
+SOLVENT            MeOD              
+NS                   16              
+DS                    0              
+SWH            9615.385 Hz           
+FIDRES         0.288924 Hz           
+AQ            3.4611199 sec          
+RG                 2.02              
+DW               52.000 usec         
+DE                20.00 usec         
+TE                298.0 K            
+D1           2.00000000 sec          
+TD0                   1              
+SFO1        600.2942020 MHz          
+NUC1                 1H              
+P1                 9.59 usec         
+PLW1        20.10000038 W            
+
+F2 - Processing parameters
+SI                65536              
+SF          600.2900340 MHz          
+WDW                  EM              
+SSB                   0              
+LB                 0.30 Hz           
+GB                    0              
+PC                50.00              

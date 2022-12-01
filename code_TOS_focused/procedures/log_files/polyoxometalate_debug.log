@@ -1,0 +1,414 @@
+2022-10-07 14:23:33,333 ; DEBUG ; graph ; MainThread ; Instantiating node input5:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 38, 'class': 'ChemputerFlask', 'name': 'input5', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,334 ; DEBUG ; graph ; MainThread ; Node input5 instantiated.
+2022-10-07 14:23:33,335 ; DEBUG ; graph ; MainThread ; Instantiating node input6:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 39, 'class': 'ChemputerFlask', 'name': 'input6', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,336 ; DEBUG ; graph ; MainThread ; Node input6 instantiated.
+2022-10-07 14:23:33,337 ; DEBUG ; graph ; MainThread ; Instantiating node cryst:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 40, 'class': 'ChemputerFlask', 'name': 'cryst', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,338 ; DEBUG ; graph ; MainThread ; Node cryst instantiated.
+2022-10-07 14:23:33,339 ; DEBUG ; graph ; MainThread ; Instantiating node input9:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 4, 'class': 'ChemputerFlask', 'name': 'input9', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,340 ; DEBUG ; graph ; MainThread ; Node input9 instantiated.
+2022-10-07 14:23:33,340 ; DEBUG ; graph ; MainThread ; Instantiating node input10:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 5, 'class': 'ChemputerFlask', 'name': 'input10', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,341 ; DEBUG ; graph ; MainThread ; Node input10 instantiated.
+2022-10-07 14:23:33,342 ; DEBUG ; graph ; MainThread ; Instantiating node input11:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 6, 'class': 'ChemputerFlask', 'name': 'input11', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,344 ; DEBUG ; graph ; MainThread ; Node input11 instantiated.
+2022-10-07 14:23:33,345 ; DEBUG ; graph ; MainThread ; Instantiating node input12:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 7, 'class': 'ChemputerFlask', 'name': 'input12', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,346 ; DEBUG ; graph ; MainThread ; Node input12 instantiated.
+2022-10-07 14:23:33,346 ; DEBUG ; graph ; MainThread ; Instantiating node input13:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 8, 'class': 'ChemputerFlask', 'name': 'input13', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,347 ; DEBUG ; graph ; MainThread ; Node input13 instantiated.
+2022-10-07 14:23:33,347 ; DEBUG ; graph ; MainThread ; Instantiating node input14:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 9, 'class': 'ChemputerFlask', 'name': 'input14', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,348 ; DEBUG ; graph ; MainThread ; Node input14 instantiated.
+2022-10-07 14:23:33,349 ; DEBUG ; graph ; MainThread ; Instantiating node input15:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 12, 'class': 'ChemputerFlask', 'name': 'input15', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,349 ; DEBUG ; graph ; MainThread ; Node input15 instantiated.
+2022-10-07 14:23:33,350 ; DEBUG ; graph ; MainThread ; Instantiating node input16:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 13, 'class': 'ChemputerFlask', 'name': 'input16', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,350 ; DEBUG ; graph ; MainThread ; Node input16 instantiated.
+2022-10-07 14:23:33,351 ; DEBUG ; graph ; MainThread ; Instantiating node input17:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 85, 'class': 'ChemputerFlask', 'name': 'input17', 'chemical': 'saturated aqueous sodium perchlorate', 'current_volume': 50, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,351 ; DEBUG ; graph ; MainThread ; Node input17 instantiated.
+2022-10-07 14:23:33,352 ; DEBUG ; graph ; MainThread ; Instantiating node input18:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 86, 'class': 'ChemputerFlask', 'name': 'input18', 'chemical': 'glacial acetic acid', 'current_volume': 50, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,352 ; DEBUG ; graph ; MainThread ; Node input18 instantiated.
+2022-10-07 14:23:33,352 ; DEBUG ; graph ; MainThread ; Instantiating node input19:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 87, 'class': 'ChemputerFlask', 'name': 'input19', 'chemical': 'pyridine', 'current_volume': 50, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,353 ; DEBUG ; graph ; MainThread ; Node input19 instantiated.
+2022-10-07 14:23:33,354 ; DEBUG ; graph ; MainThread ; Instantiating node input20:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 88, 'class': 'ChemputerFlask', 'name': 'input20', 'chemical': 'ethanol', 'current_volume': 250, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,354 ; DEBUG ; graph ; MainThread ; Node input20 instantiated.
+2022-10-07 14:23:33,354 ; DEBUG ; graph ; MainThread ; Instantiating node r2:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 95, 'class': 'ChemputerReactor', 'name': 'r2', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None}.
+2022-10-07 14:23:33,355 ; DEBUG ; graph ; MainThread ; Node r2 instantiated.
+2022-10-07 14:23:33,356 ; DEBUG ; graph ; MainThread ; Instantiating node r3:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 96, 'class': 'ChemputerReactor', 'name': 'r3', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None}.
+2022-10-07 14:23:33,356 ; DEBUG ; graph ; MainThread ; Node r3 instantiated.
+2022-10-07 14:23:33,357 ; DEBUG ; graph ; MainThread ; Instantiating node r4:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 97, 'class': 'ChemputerReactor', 'name': 'r4', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None}.
+2022-10-07 14:23:33,357 ; DEBUG ; graph ; MainThread ; Node r4 instantiated.
+2022-10-07 14:23:33,358 ; DEBUG ; graph ; MainThread ; Instantiating node input21:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 47, 'class': 'ChemputerFlask', 'name': 'input21', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,359 ; DEBUG ; graph ; MainThread ; Node input21 instantiated.
+2022-10-07 14:23:33,359 ; DEBUG ; graph ; MainThread ; Instantiating node input22:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 66, 'class': 'ChemputerFlask', 'name': 'input22', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,361 ; DEBUG ; graph ; MainThread ; Node input22 instantiated.
+2022-10-07 14:23:33,361 ; DEBUG ; graph ; MainThread ; Instantiating node input23:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 75, 'class': 'ChemputerFlask', 'name': 'input23', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,361 ; DEBUG ; graph ; MainThread ; Node input23 instantiated.
+2022-10-07 14:23:33,361 ; DEBUG ; graph ; MainThread ; Instantiating node sepstore:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 119, 'class': 'ChemputerFlask', 'name': 'sepstore', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None}.
+2022-10-07 14:23:33,363 ; DEBUG ; graph ; MainThread ; Node sepstore instantiated.
+2022-10-07 14:23:33,363 ; DEBUG ; graph ; MainThread ; Instantiating node waste2:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 124, 'class': 'ChemputerWaste', 'name': 'waste2', 'current_volume': 0, 'max_volume': 500, 'necks': 1, 'lock': None}.
+2022-10-07 14:23:33,364 ; DEBUG ; graph ; MainThread ; Node waste2 instantiated.
+2022-10-07 14:23:33,364 ; DEBUG ; graph ; MainThread ; Instantiating node waste3:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 98, 'class': 'ChemputerWaste', 'name': 'waste3', 'current_volume': 0, 'max_volume': 2000, 'necks': 1, 'lock': None}.
+2022-10-07 14:23:33,365 ; DEBUG ; graph ; MainThread ; Node waste3 instantiated.
+2022-10-07 14:23:33,365 ; DEBUG ; graph ; MainThread ; Instantiating node uvsample:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 100, 'class': 'ChemputerFlask', 'name': 'uvsample', 'chemical': '', 'current_volume': 100, 'max_volume': 100, 'lock': None}.
+2022-10-07 14:23:33,366 ; DEBUG ; graph ; MainThread ; Node uvsample instantiated.
+2022-10-07 14:23:33,366 ; DEBUG ; graph ; MainThread ; Instantiating node waste1:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 3, 'class': 'ChemputerWaste', 'name': 'waste1', 'current_volume': 0, 'max_volume': 2000, 'necks': 1, 'can_filter': False, 'lock': None}.
+2022-10-07 14:23:33,366 ; DEBUG ; graph ; MainThread ; Node waste1 instantiated.
+2022-10-07 14:23:33,367 ; DEBUG ; graph ; MainThread ; Instantiating node filter:
+	class = ChemputerFilter,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'filter', 'internalId': 22, 'class': 'ChemputerFilter', 'name': 'filter', 'current_volume': 0, 'max_volume': 100, 'dead_volume': 10, 'lock': None}.
+2022-10-07 14:23:33,367 ; DEBUG ; graph ; MainThread ; Node filter instantiated.
+2022-10-07 14:23:33,368 ; DEBUG ; graph ; MainThread ; Instantiating node julabo_chiller:
+	class = CF41Chiller,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'chiller', 'internalId': 28, 'class': 'CF41Chiller', 'name': 'julabo_chiller', 'min_temp': 0, 'max_temp': 200, 'port': '5000', 'address': '192.168.1.55', 'connection_mode': 'tcpip', 'lock': None}.
+2022-10-07 14:23:33,368 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.55', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'rtscts': True}
+2022-10-07 14:23:33,369 ; DEBUG ; graph ; MainThread ; Node julabo_chiller instantiated.
+2022-10-07 14:24:08,484 ; DEBUG ; graph ; MainThread ; Instantiating node input5:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 38, 'class': 'ChemputerFlask', 'name': 'input5', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,485 ; DEBUG ; graph ; MainThread ; Node input5 instantiated.
+2022-10-07 14:24:08,486 ; DEBUG ; graph ; MainThread ; Instantiating node input6:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 39, 'class': 'ChemputerFlask', 'name': 'input6', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,486 ; DEBUG ; graph ; MainThread ; Node input6 instantiated.
+2022-10-07 14:24:08,486 ; DEBUG ; graph ; MainThread ; Instantiating node cryst:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 40, 'class': 'ChemputerFlask', 'name': 'cryst', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,487 ; DEBUG ; graph ; MainThread ; Node cryst instantiated.
+2022-10-07 14:24:08,487 ; DEBUG ; graph ; MainThread ; Instantiating node input9:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 4, 'class': 'ChemputerFlask', 'name': 'input9', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,488 ; DEBUG ; graph ; MainThread ; Node input9 instantiated.
+2022-10-07 14:24:08,488 ; DEBUG ; graph ; MainThread ; Instantiating node input10:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 5, 'class': 'ChemputerFlask', 'name': 'input10', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,488 ; DEBUG ; graph ; MainThread ; Node input10 instantiated.
+2022-10-07 14:24:08,489 ; DEBUG ; graph ; MainThread ; Instantiating node input11:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 6, 'class': 'ChemputerFlask', 'name': 'input11', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,489 ; DEBUG ; graph ; MainThread ; Node input11 instantiated.
+2022-10-07 14:24:08,489 ; DEBUG ; graph ; MainThread ; Instantiating node input12:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 7, 'class': 'ChemputerFlask', 'name': 'input12', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,489 ; DEBUG ; graph ; MainThread ; Node input12 instantiated.
+2022-10-07 14:24:08,489 ; DEBUG ; graph ; MainThread ; Instantiating node input13:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 8, 'class': 'ChemputerFlask', 'name': 'input13', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,490 ; DEBUG ; graph ; MainThread ; Node input13 instantiated.
+2022-10-07 14:24:08,490 ; DEBUG ; graph ; MainThread ; Instantiating node input14:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 9, 'class': 'ChemputerFlask', 'name': 'input14', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,490 ; DEBUG ; graph ; MainThread ; Node input14 instantiated.
+2022-10-07 14:24:08,491 ; DEBUG ; graph ; MainThread ; Instantiating node input15:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 12, 'class': 'ChemputerFlask', 'name': 'input15', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,491 ; DEBUG ; graph ; MainThread ; Node input15 instantiated.
+2022-10-07 14:24:08,491 ; DEBUG ; graph ; MainThread ; Instantiating node input16:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 13, 'class': 'ChemputerFlask', 'name': 'input16', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,491 ; DEBUG ; graph ; MainThread ; Node input16 instantiated.
+2022-10-07 14:24:08,492 ; DEBUG ; graph ; MainThread ; Instantiating node input17:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 85, 'class': 'ChemputerFlask', 'name': 'input17', 'chemical': 'saturated aqueous sodium perchlorate', 'current_volume': 50, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,493 ; DEBUG ; graph ; MainThread ; Node input17 instantiated.
+2022-10-07 14:24:08,493 ; DEBUG ; graph ; MainThread ; Instantiating node input18:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 86, 'class': 'ChemputerFlask', 'name': 'input18', 'chemical': 'glacial acetic acid', 'current_volume': 50, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,493 ; DEBUG ; graph ; MainThread ; Node input18 instantiated.
+2022-10-07 14:24:08,493 ; DEBUG ; graph ; MainThread ; Instantiating node input19:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 87, 'class': 'ChemputerFlask', 'name': 'input19', 'chemical': 'pyridine', 'current_volume': 50, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,494 ; DEBUG ; graph ; MainThread ; Node input19 instantiated.
+2022-10-07 14:24:08,494 ; DEBUG ; graph ; MainThread ; Instantiating node input20:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 88, 'class': 'ChemputerFlask', 'name': 'input20', 'chemical': 'ethanol', 'current_volume': 250, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,494 ; DEBUG ; graph ; MainThread ; Node input20 instantiated.
+2022-10-07 14:24:08,494 ; DEBUG ; graph ; MainThread ; Instantiating node r2:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 95, 'class': 'ChemputerReactor', 'name': 'r2', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,494 ; DEBUG ; graph ; MainThread ; Node r2 instantiated.
+2022-10-07 14:24:08,495 ; DEBUG ; graph ; MainThread ; Instantiating node r3:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 96, 'class': 'ChemputerReactor', 'name': 'r3', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,495 ; DEBUG ; graph ; MainThread ; Node r3 instantiated.
+2022-10-07 14:24:08,495 ; DEBUG ; graph ; MainThread ; Instantiating node r4:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 97, 'class': 'ChemputerReactor', 'name': 'r4', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,496 ; DEBUG ; graph ; MainThread ; Node r4 instantiated.
+2022-10-07 14:24:08,496 ; DEBUG ; graph ; MainThread ; Instantiating node input21:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 47, 'class': 'ChemputerFlask', 'name': 'input21', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,496 ; DEBUG ; graph ; MainThread ; Node input21 instantiated.
+2022-10-07 14:24:08,496 ; DEBUG ; graph ; MainThread ; Instantiating node input22:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 66, 'class': 'ChemputerFlask', 'name': 'input22', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,497 ; DEBUG ; graph ; MainThread ; Node input22 instantiated.
+2022-10-07 14:24:08,497 ; DEBUG ; graph ; MainThread ; Instantiating node input23:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 75, 'class': 'ChemputerFlask', 'name': 'input23', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,497 ; DEBUG ; graph ; MainThread ; Node input23 instantiated.
+2022-10-07 14:24:08,497 ; DEBUG ; graph ; MainThread ; Instantiating node sepstore:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 119, 'class': 'ChemputerFlask', 'name': 'sepstore', 'chemical': '', 'current_volume': 100, 'max_volume': 250, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,497 ; DEBUG ; graph ; MainThread ; Node sepstore instantiated.
+2022-10-07 14:24:08,498 ; DEBUG ; graph ; MainThread ; Instantiating node waste2:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 124, 'class': 'ChemputerWaste', 'name': 'waste2', 'current_volume': 0, 'max_volume': 500, 'necks': 1, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,498 ; DEBUG ; graph ; MainThread ; Node waste2 instantiated.
+2022-10-07 14:24:08,498 ; DEBUG ; graph ; MainThread ; Instantiating node waste3:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 98, 'class': 'ChemputerWaste', 'name': 'waste3', 'current_volume': 0, 'max_volume': 2000, 'necks': 1, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,498 ; DEBUG ; graph ; MainThread ; Node waste3 instantiated.
+2022-10-07 14:24:08,499 ; DEBUG ; graph ; MainThread ; Instantiating node uvsample:
+	class = ChemputerFlask,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'flask', 'internalId': 100, 'class': 'ChemputerFlask', 'name': 'uvsample', 'chemical': '', 'current_volume': 100, 'max_volume': 100, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,499 ; DEBUG ; graph ; MainThread ; Node uvsample instantiated.
+2022-10-07 14:24:08,499 ; DEBUG ; graph ; MainThread ; Instantiating node waste1:
+	class = ChemputerWaste,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'waste', 'internalId': 3, 'class': 'ChemputerWaste', 'name': 'waste1', 'current_volume': 0, 'max_volume': 2000, 'necks': 1, 'can_filter': False, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,499 ; DEBUG ; graph ; MainThread ; Node waste1 instantiated.
+2022-10-07 14:24:08,500 ; DEBUG ; graph ; MainThread ; Instantiating node filter:
+	class = ChemputerFilter,
+	params = ['self', 'name', 'current_volume', 'max_volume'],
+	graph attrs = {'type': 'filter', 'internalId': 22, 'class': 'ChemputerFilter', 'name': 'filter', 'current_volume': 0, 'max_volume': 100, 'dead_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,500 ; DEBUG ; graph ; MainThread ; Node filter instantiated.
+2022-10-07 14:24:08,500 ; DEBUG ; graph ; MainThread ; Instantiating node julabo_chiller:
+	class = CF41Chiller,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'chiller', 'internalId': 28, 'class': 'CF41Chiller', 'name': 'julabo_chiller', 'min_temp': 0, 'max_temp': 200, 'port': '5000', 'address': '192.168.1.55', 'connection_mode': 'tcpip', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,500 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.55', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'rtscts': True}
+2022-10-07 14:24:08,500 ; DEBUG ; graph ; MainThread ; Node julabo_chiller instantiated.
+2022-10-07 14:24:08,501 ; DEBUG ; graph ; MainThread ; Instantiating node r1:
+	class = ChemputerReactor,
+	params = ['self', 'name', 'current_volume', 'max_volume', 'necks'],
+	graph attrs = {'type': 'reactor', 'internalId': 30, 'class': 'ChemputerReactor', 'name': 'r1', 'current_volume': 0, 'max_volume': 100, 'necks': 1, 'can_filter': False, 'lock': None, 'connection_mode': 'tcpip', 'address': '', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,501 ; DEBUG ; graph ; MainThread ; Node r1 instantiated.
+2022-10-07 14:24:08,501 ; DEBUG ; graph ; MainThread ; Instantiating node hotplate1:
+	class = RCTDigitalHotplate,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'heater', 'internalId': 31, 'class': 'RCTDigitalHotplate', 'name': 'hotplate1', 'port': '5000', 'address': '192.168.1.50', 'connection_mode': 'tcpip', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,501 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.50', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,503 ; DEBUG ; graph ; MainThread ; Node hotplate1 instantiated.
+2022-10-07 14:24:08,503 ; DEBUG ; graph ; MainThread ; Instantiating node ohstirrer:
+	class = Microstar75Stirrer,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'stirrer', 'internalId': 51, 'class': 'Microstar75Stirrer', 'name': 'ohstirrer', 'port': 'COM5', 'address': '', 'connection_mode': 'serial', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,503 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '', 'port': 'COM5', 'encoding': 'UTF-8', 'command_delay': 0.3, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'write_timeout': 0.5, 'baudrate': 9600, 'bytesize': 7, 'parity': 'E', 'stopbits': 1, 'xonxoff': False, 'rtscts': False, 'dsrdtr': False, 'inter_byte_timeout': False}
+2022-10-07 14:24:08,504 ; DEBUG ; graph ; MainThread ; Node ohstirrer instantiated.
+2022-10-07 14:24:08,504 ; DEBUG ; graph ; MainThread ; Instantiating node hotplate2:
+	class = RCTDigitalHotplate,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'heater', 'internalId': 76, 'class': 'RCTDigitalHotplate', 'name': 'hotplate2', 'port': '5000', 'address': '192.168.1.51', 'connection_mode': 'tcpip', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,504 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.51', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,504 ; DEBUG ; graph ; MainThread ; Node hotplate2 instantiated.
+2022-10-07 14:24:08,505 ; DEBUG ; graph ; MainThread ; Instantiating node hotplate3:
+	class = RCTDigitalHotplate,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'heater', 'internalId': 94, 'class': 'RCTDigitalHotplate', 'name': 'hotplate3', 'port': '5000', 'address': '192.168.1.52', 'connection_mode': 'tcpip', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,505 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.52', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,505 ; DEBUG ; graph ; MainThread ; Node hotplate3 instantiated.
+2022-10-07 14:24:08,505 ; DEBUG ; graph ; MainThread ; Instantiating node hotplate4:
+	class = RCTDigitalHotplate,
+	params = ['self', 'device_name', 'connection_mode', 'address', 'port'],
+	graph attrs = {'type': 'heater', 'internalId': 99, 'class': 'RCTDigitalHotplate', 'name': 'hotplate4', 'port': '5000', 'address': '192.168.1.54', 'connection_mode': 'tcpip', 'lock': None, 'simulation': True}.
+2022-10-07 14:24:08,506 ; PyLabware ; Creating connection object with the following settings: 
+{'address': '192.168.1.54', 'port': '5000', 'encoding': 'UTF-8', 'command_delay': 0.5, 'receive_buffer_size': 128, 'receive_timeout': 1, 'transmit_timeout': 1, 'receiving_interval': 0.05, 'protocol': 'TCP', 'baudrate': 9600, 'bytesize': 7, 'parity': 'E'}
+2022-10-07 14:24:08,506 ; DEBUG ; graph ; MainThread ; Node hotplate4 instantiated.
+2022-10-07 14:24:08,506 ; DEBUG ; graph ; MainThread ; Instantiating node valve1:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 1, 'class': 'ChemputerValve', 'name': 'valve1', 'address': '192.168.1.11', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,507 ; DEBUG ; graph ; MainThread ; Node valve1 instantiated.
+2022-10-07 14:24:08,507 ; DEBUG ; graph ; MainThread ; Instantiating node valve2:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 10, 'class': 'ChemputerValve', 'name': 'valve2', 'address': '192.168.1.12', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,507 ; DEBUG ; graph ; MainThread ; Node valve2 instantiated.
+2022-10-07 14:24:08,507 ; DEBUG ; graph ; MainThread ; Instantiating node valve3:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 11, 'class': 'ChemputerValve', 'name': 'valve3', 'address': '192.168.1.13', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,508 ; DEBUG ; graph ; MainThread ; Node valve3 instantiated.
+2022-10-07 14:24:08,508 ; DEBUG ; graph ; MainThread ; Instantiating node valve4:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 15, 'class': 'ChemputerValve', 'name': 'valve4', 'address': '192.168.1.38', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,508 ; DEBUG ; graph ; MainThread ; Node valve4 instantiated.
+2022-10-07 14:24:08,508 ; DEBUG ; graph ; MainThread ; Instantiating node valve5:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 62, 'class': 'ChemputerValve', 'name': 'valve5', 'address': '192.168.1.41', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,508 ; DEBUG ; graph ; MainThread ; Node valve5 instantiated.
+2022-10-07 14:24:08,509 ; DEBUG ; graph ; MainThread ; Instantiating node valvesep:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 63, 'class': 'ChemputerValve', 'name': 'valvesep', 'address': '192.168.1.81', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,509 ; DEBUG ; graph ; MainThread ; Node valvesep instantiated.
+2022-10-07 14:24:08,509 ; DEBUG ; graph ; MainThread ; Instantiating node valvereact:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 64, 'class': 'ChemputerValve', 'name': 'valvereact', 'address': '192.168.1.79', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,509 ; DEBUG ; graph ; MainThread ; Node valvereact instantiated.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Instantiating node vavlesample:
+	class = SimChemputerValve,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'valve', 'internalId': 65, 'class': 'ChemputerValve', 'name': 'vavlesample', 'address': '192.168.1.80', 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Node vavlesample instantiated.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Instantiating node pump2:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 42, 'class': 'ChemputerPump', 'name': 'pump2', 'address': '192.168.1.99', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Node pump2 instantiated.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Instantiating node pump3:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 43, 'class': 'ChemputerPump', 'name': 'pump3', 'address': '192.168.1.31', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Node pump3 instantiated.
+2022-10-07 14:24:08,510 ; DEBUG ; graph ; MainThread ; Instantiating node pump4:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 19, 'class': 'ChemputerPump', 'name': 'pump4', 'address': '192.168.1.36', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,511 ; DEBUG ; graph ; MainThread ; Node pump4 instantiated.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Instantiating node pumpsep:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 44, 'class': 'ChemputerPump', 'name': 'pumpsep', 'address': '192.168.1.74', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Node pumpsep instantiated.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Instantiating node pumpreact:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 45, 'class': 'ChemputerPump', 'name': 'pumpreact', 'address': '192.168.1.75', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Node pumpreact instantiated.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Instantiating node pumpsample:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 46, 'class': 'ChemputerPump', 'name': 'pumpsample', 'address': '192.168.1.82', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,512 ; DEBUG ; graph ; MainThread ; Node pumpsample instantiated.
+2022-10-07 14:24:08,513 ; DEBUG ; graph ; MainThread ; Instantiating node pump5:
+	class = SimChemputerPump,
+	params = ['self', 'address', 'name'],
+	graph attrs = {'type': 'pump', 'internalId': 20, 'class': 'ChemputerPump', 'name': 'pump5', 'address': '192.168.1.37', 'max_volume': 10, 'lock': None, 'connection_mode': 'tcpip', 'port': '5000', 'simulation': True}.
+2022-10-07 14:24:08,513 ; DEBUG ; graph ; MainThread ; Node pump5 instantiated.
+2022-10-07 14:24:08,513 ; DEBUG ; chempiler ; MainThread ; All devices ready!
+2022-10-07 14:24:08,520 ; PyLabware ; SIM :: Patched send() to return <0>, calling <is_idle>
+2022-10-07 14:24:08,521 ; PyLabware ; SIM :: Patched send() to return <JULABO CRYOCOMPACT CF41>, calling <is_connected>
+2022-10-07 14:24:08,521 ; PyLabware ; Waiting done. Device <julabo_chiller> ready.
+2022-10-07 14:24:08,522 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,523 ; PyLabware ; Waiting done. Device <hotplate1> ready.
+2022-10-07 14:24:08,523 ; PyLabware ; SIM :: Patched send() to return <Microstar C>, calling <is_connected>
+2022-10-07 14:24:08,523 ; PyLabware ; Waiting done. Device <ohstirrer> ready.
+2022-10-07 14:24:08,524 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,524 ; PyLabware ; Waiting done. Device <hotplate2> ready.
+2022-10-07 14:24:08,525 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,525 ; PyLabware ; Waiting done. Device <hotplate3> ready.
+2022-10-07 14:24:08,526 ; PyLabware ; SIM :: Patched send() to return <RCT digital>, calling <is_connected>
+2022-10-07 14:24:08,526 ; PyLabware ; Waiting done. Device <hotplate4> ready.
+2022-10-07 14:24:08,527 ; DEBUG ; chempiler ; MainThread ; Breakpoint reached.

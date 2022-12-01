@@ -1,0 +1,8 @@
+   Current data set:
+   NAME =	CCE_1_27	EXPNO =	1	PROCNO = 1
+   DU   =	D:/NMR/data/Dkowalski/nmr
+
+   Number   Integrated Region     Integral
+     1      2.475      2.452         6.00000
+     2      2.245      2.215         9.60459
+     3      1.940      1.934         0.81421

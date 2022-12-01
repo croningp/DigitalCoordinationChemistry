@@ -1,0 +1,10 @@
+   Current data set:
+   NAME =	CMM3-062G	EXPNO =	1	PROCNO = 1
+   DU   =	Z:/group/Cat MacGregor/Data/CARBOXYLATE EXPLORATION/Hydrothermal Test Reactions
+
+   Number   Integrated Region     Integral
+     1      5.562      3.960        13.77059
+     2      3.747      3.092         1.60026
+     3      2.507      2.486         1.00000
+     4      2.315      2.298         0.46409
+     5      2.298      2.274         1.04775

@@ -1,0 +1,60 @@
+
+Current Data Parameters
+NAME          CMM3-062G              
+EXPNO                14              
+PROCNO               98              
+
+F2 - Acquisition Parameters
+Date_          20210930              
+Time              21.08 h            
+INSTRUM           spect              
+PROBHD   Z107910_0024 (              
+PULPROG    cosygpmfppqf              
+TD                 2048              
+SOLVENT            MeOD              
+NS                    1              
+DS                   16              
+SWH            6009.615 Hz           
+FIDRES         5.868765 Hz           
+AQ            0.1703936 sec          
+RG               203.02              
+DW               83.200 usec         
+DE                20.00 usec         
+TE                298.0 K            
+D0           0.00000300 sec          
+D1           0.99999827 sec          
+D11          0.03000000 sec          
+D12          0.00002000 sec          
+D13          0.00000400 sec          
+D16          0.00020000 sec          
+IN0          0.00016640 sec          
+TDav                  1              
+SFO1        600.2930015 MHz          
+NUC1                 1H              
+P1                 9.59 usec         
+P17             2500.00 usec         
+PLW1        20.10000038 W            
+PLW10        2.95770001 W            
+GPNAM[1]     SMSQ10.100              
+GPZ1              16.00 %            
+GPNAM[2]     SMSQ10.100              
+GPZ2              12.00 %            
+GPNAM[3]     SMSQ10.100              
+GPZ3              40.00 %            
+P16             1000.00 usec         
+
+F1 - Acquisition parameters
+TD                  128              
+SFO1            600.293 MHz          
+FIDRES        93.900238 Hz           
+SW               10.011 ppm          
+FnMODE               QF              
+
+F2 - Processing parameters
+SI                 1024              
+SF          600.2900000 MHz          
+WDW                SINE              
+SSB                   0              
+LB                    0 Hz           
+GB                    0              
+PC                 1.40              

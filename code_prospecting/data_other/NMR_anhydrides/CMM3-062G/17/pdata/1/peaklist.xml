@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="nmrsu" date="2021-09-30T21:33:01.646+01:00" expNo="17" name="CMM3-062G" owner="" procNo="1" source="D:/NMR/data/Cmacgregor/nmr">
+      <PeakPickDetails>F1=235.473801ppm, F2=-15.473761ppm, MI=0.00cm, MAXI=10000.00cm, PC=1.400
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="175.010971" intensity="2.003733e-002" type="0"/>
+    <Peak1D F1="168.521667" intensity="1.283345e-002" type="0"/>
+    <Peak1D F1="167.125259" intensity="1.068747e-002" type="0"/>
+    <Peak1D F1="163.825348" intensity="2.722147e-002" type="0"/>
+    <Peak1D F1="163.660629" intensity="3.171433e-002" type="0"/>
+    <Peak1D F1="73.042641" intensity="1.849922e-002" type="0"/>
+    <Peak1D F1="70.844360" intensity="9.434587e-003" type="0"/>
+    <Peak1D F1="54.837471" intensity="1.103041e-002" type="0"/>
+    <Peak1D F1="54.573959" intensity="1.522410e-002" type="0"/>
+    <Peak1D F1="48.449856" intensity="9.406231e-003" type="0"/>
+    <Peak1D F1="48.168156" intensity="4.469746e-002" type="0"/>
+    <Peak1D F1="48.025700" intensity="2.158425e+000" type="0"/>
+    <Peak1D F1="47.883797" intensity="6.536129e+000" type="0"/>
+    <Peak1D F1="47.741924" intensity="1.261518e+001" type="0"/>
+    <Peak1D F1="47.599915" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="47.458057" intensity="1.272299e+001" type="0"/>
+    <Peak1D F1="47.316093" intensity="6.472762e+000" type="0"/>
+    <Peak1D F1="47.174282" intensity="2.164010e+000" type="0"/>
+    <Peak1D F1="21.633123" intensity="1.388688e-002" type="0"/>
+    <Peak1D F1="21.272001" intensity="1.653881e-002" type="0"/>
+    <Peak1D F1="20.993385" intensity="1.720915e-002" type="0"/>
+    <Peak1D F1="20.909847" intensity="7.349373e-002" type="0"/>
+    <Peak1D F1="20.818426" intensity="9.141163e-002" type="0"/>
+    <Peak1D F1="20.669239" intensity="6.271459e-002" type="0"/>
+    <Peak1D F1="16.552702" intensity="7.886892e-003" type="0"/>
+  </PeakList1D>
+</PeakList>

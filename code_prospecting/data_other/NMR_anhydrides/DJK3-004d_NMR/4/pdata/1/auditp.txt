@@ -1,0 +1,47 @@
+##TITLE= Audit trail, TopSpin 3.6.3
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= nmrsu
+$$ D:/NMR/data/Dkowalski/nmr/DJK3-004d_NMR/4/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2021-11-06 15:26:33.981 +0000>,<nmrsu>,<CZC943CYQC>,<go4>,<TopSpin 3.6.3>,
+      <created by zg on data set with UUID 'b6848b6a-3f15-11ec-a82e-84a93e84dbc3'
+       started at 2021-11-06 15:25:03.097 +0000,
+       POWCHK enabled, PULCHK disabled,
+       completed at 2021-11-06 15:26:33.981 +0000
+
+       configuration hash MD5:
+       55 14 48 12 FF 91 F1 D7 DE 45 42 8E 68 6F 4F 8E
+       data hash MD5: 65K
+       FB C3 7C 22 2C E6 DF 8F 14 5F 02 16 29 26 7D E9
+>)
+(   2,<2021-11-06 15:26:34.043 +0000>,<nmrsu>,<CZC943CYQC>,<audit>,<TopSpin 3.6.3>,
+      <user comment:
+       ICON-NMR User ID: Dkowalski
+       data hash MD5: 65K
+       FB C3 7C 22 2C E6 DF 8F 14 5F 02 16 29 26 7D E9>)
+(   3,<2021-11-06 15:26:35.491 +0000>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 64K 
+       data hash MD5: 64K
+       9C 18 A4 7C DF 0B 95 C2 C0 71 24 E0 9A E4 82 A1>)
+(   4,<2021-11-06 15:26:35.554 +0000>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <apks 
+       data hash MD5: 64K
+       13 80 A1 1F 63 C2 C3 46 E4 2E 53 A7 76 DF A9 A5>)
+(   5,<2021-11-06 15:26:35.600 +0000>,<nmrsu>,<CZC943CYQC>,<proc1d>,<TopSpin 3.6.3>,
+      <abs ABSG = 3 
+       data hash MD5: 64K
+       AB CB 20 06 53 CB A5 8D 98 73 92 61 83 BC F8 8E>)
+(   6,<2021-11-06 15:27:04.784 +0000>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <Spectrum calibrated, SF was set. Old value: 600.290000 New value: 600.291956. Peak list modified: Yes
+       data hash MD5: 64K
+       AB CB 20 06 53 CB A5 8D 98 73 92 61 83 BC F8 8E>)
+(   7,<2021-11-06 15:27:04.784 +0000>,<nmrsu>,<CZC943CYQC>,<dataserver>,<TopSpin 3.6.3>,
+      <Spectrum calibrated, OFFSET was set. Old value: 15.008950 New value: 11.750102. Peak list modified: Yes
+       data hash MD5: 64K
+       AB CB 20 06 53 CB A5 8D 98 73 92 61 83 BC F8 8E>)
+##END=
+
+$$ hash MD5
+$$ 88 5D E3 BB E0 69 C0 4C 17 47 4E 24 62 82 02 DD
