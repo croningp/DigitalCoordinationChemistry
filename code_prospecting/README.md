@@ -1,8 +1,8 @@
-# Algorithmic Exploration in a Coordination Chemical Search Space
+# Algorithmic Exploration and Novelty Quantification
 
 Contains scripts for the machine-learning led exploration of a search space of metal carboxylate mixed-ligand complexes. Covers the full data science workflow from digital data interpretation, calculation of a mapping function to sampling of new conditions based on random sampling from a uiform distribution, Latin Hypercube Sampling, or Gaussian Proess Bayesian Optimisation. Raw mass spectrometry data from the exploration is also included to permit replication. 
 
-This work accompanies the paper "Hybrid Human-Robot Laboratories enable Library Generation and Discovery in Coordination Chemistry", by Kowalski, MacGregor, Long, Bell, and Cronin.
+This work accompanies the paper "Automated Library Gneration and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry", by Kowalski, MacGregor, Long, Bell, and Cronin.
 
 No further development is planned at this time.
 
