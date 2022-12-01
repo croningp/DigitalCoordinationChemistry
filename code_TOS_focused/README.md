@@ -1,4 +1,4 @@
-# Automated Coordination Chemistry
+# Target-Oriented Synthesis and Focused Library Generation in Coordination Chemical Space
 
 Contains scripts for the automated preparation of a number of coordination complexes using a Chemputer/ChemPU. Parallelized generation of a library of ruthenium bipyridyl complexes is also included.
 
