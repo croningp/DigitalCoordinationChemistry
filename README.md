@@ -1,6 +1,6 @@
-# Automated Library Gneration and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry
+# Automated Library Generation and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry
 
-This work accompanies the paper Kowalski, MacGregor, Long, Bell, and Cronin, *Automated Library Gneration and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry*, Journal of the American Chemical Society, 2022.
+This work accompanies the paper Kowalski, MacGregor, Long, Bell, and Cronin, *Automated Library Generation and Serendipity Quantification enables Diverse Discovery in Coordination Chemistry*, Journal of the American Chemical Society, 2022.
 
 Code is split into two sections (with individual README.md files): `code_TOS_focused`, which deals with the work discussed in the sections 'Key Synthetic Operations for Coordination Chemistry' and 'Focused Library Generation', and `code_prospecting`, which deals with the work discussed in the sections 'Prospecting Library Generation' and 'Deconvolution of MS Data from the Prospecting Library'.
 
